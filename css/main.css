@@ -1,0 +1,57 @@
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #1a202c;
+    color: #cbd5e0;
+}
+
+.dark-mode header {
+    background-color: #2d3748;
+    color: #cbd5e0;
+    border-bottom: 1px solid #4a5568;
+}
+
+.dark-mode .search-input,
+.dark-mode select {
+    background-color: #2d3748;
+    border-color: #4a5568;
+    color: #cbd5e0;
+}
+
+.dark-mode .search-input::placeholder,
+.dark-mode select {
+    color: #cbd5e0;
+}
+
+.dark-mode .main-list li {
+    background-color: #2d3748;
+    border-color: #4a5568;
+    color: #cbd5e0;
+}
+
+.dark-mode .main-list li h2,
+.dark-mode .main-list li p {
+    color: #cbd5e0;
+}
+
+.dark-mode button {
+    border-color: #4a5568;
+    background-color: #2d3748;
+    color: #cbd5e0;
+}
+
+.dark-mode #countryModal {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dark-mode #countryModal .relative {
+    background-color: #2d3748;
+    color: #cbd5e0;
+}
+
+.dark-mode #closeModal {
+    color: #cbd5e0;
+}
+
+.dark-mode #closeModal:hover {
+    color: #ffffff;
+}
