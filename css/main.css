@@ -5,7 +5,7 @@
 }
 
 .dark-mode header {
-    background-color: #2d3748;
+    background: linear-gradient(to right, #2d3748, #1a202c);
     color: #cbd5e0;
     border-bottom: 1px solid #4a5568;
 }
